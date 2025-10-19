@@ -89,6 +89,3 @@ FROM (
 ) t
 WHERE rank <= 3;
 ```
-
-
-## Folder Structur``
